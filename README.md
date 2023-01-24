@@ -1,6 +1,6 @@
 # Api Rest Spring Boot
 
-- Se goatou da Api da uma estrelinha ae pra motivar pô :)
+- Se gostou da Api da uma estrelinha ae pra motivar pô :)
 - Fique a Vontade para clonar o repositório e entender como foi feito, se você olhar os commit's estão em ordem para se quiser refazer a API.
 - Api simples com EndPoint's para estudo de Spring.
 - Contribuidor Master: Vinicius A Nunes.
