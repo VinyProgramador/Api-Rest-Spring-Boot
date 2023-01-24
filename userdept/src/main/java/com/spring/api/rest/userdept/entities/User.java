@@ -23,6 +23,10 @@ public class User {
 	@JoinColumn(name = "department_id")
 	private Department department;
 
+	public User() {
+		
+	}
+	
 	public long getId() {
 		return id;
 	}
